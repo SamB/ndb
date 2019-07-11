@@ -24,7 +24,7 @@
 
 .configuration-item {
   padding: 3px 5px 3px 5px;
-  height: 30px;
+  /* height: 30px; */
   align-items: center;
   position: relative;
   flex: auto 1 0;
